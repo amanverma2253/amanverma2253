@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">I'm a Full-Stack (MERN) Web-Developer</h3>
 
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma2253&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma2253" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanverma2253" alt="amanverma2253" /></a> </p>
