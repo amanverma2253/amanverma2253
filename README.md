@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center">I'm a Full-Stack (MERN) Web-Developer</h3>
+<h3 align="center">I'm a frontend developer</h3>
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1240" height="500" />
 
